@@ -41,3 +41,15 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# LTspice simulation outputs (never commit these)
+*.log
+*.raw
+*.op.raw
+*.net
+*.fft
+*.wav
+*.tmp
+
+# Optional – uncomment if you don’t want to track plot settings
+# *.plt
