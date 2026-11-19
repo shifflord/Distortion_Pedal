@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Distortion_Pedal")(type "KiCad")(uri "${KIPRJMOD}/Component_CAD_Models/Footprints")(options "")(descr ""))
+)

@@ -557,6 +557,15 @@
       "Net-(U1-V+)": [
         "POWER"
       ],
+      "Net-(U2-+)": [
+        "SIGNAL"
+      ],
+      "Net-(U2--)": [
+        "SIGNAL"
+      ],
+      "Net-(U2-V+)": [
+        "POWER"
+      ],
       "PWR_IN": [
         "POWER"
       ]
