@@ -509,6 +509,9 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "/PWR_FILT": [
+        "POWER"
+      ],
       "/SIGNAL_IN": [
         "SIGNAL"
       ],
@@ -543,6 +546,9 @@
         "POWER"
       ],
       "Net-(J1-PadT)": [
+        "SIGNAL"
+      ],
+      "Net-(R3-Pad1)": [
         "SIGNAL"
       ],
       "Net-(R3-Pad2)": [
